@@ -1,0 +1,126 @@
+--按时间片运行gc
+2019-03-06 07:54:09 cpu(2.7G) gc(0.10ms) code(0.10ms) gc timeout count:2406
+2019-03-06 07:54:10 cpu(2.7G) gc(0.10ms) code(0.20ms) gc timeout count:2142
+2019-03-06 07:54:10 cpu(2.7G) gc(0.10ms) code(0.30ms) gc timeout count:2171
+2019-03-06 07:54:11 cpu(2.7G) gc(0.10ms) code(0.40ms) gc timeout count:1011
+2019-03-06 07:54:12 cpu(2.7G) gc(0.10ms) code(0.50ms) gc timeout count:992
+2019-03-06 07:54:12 cpu(2.7G) gc(0.10ms) code(0.60ms) gc timeout count:1041
+2019-03-06 07:54:13 cpu(2.7G) gc(0.10ms) code(0.70ms) gc timeout count:965
+2019-03-06 07:54:13 cpu(2.7G) gc(0.10ms) code(0.80ms) gc timeout count:1041
+2019-03-06 07:54:14 cpu(2.7G) gc(0.10ms) code(0.90ms) gc timeout count:969
+2019-03-06 07:54:14 cpu(2.7G) gc(0.20ms) code(0.10ms) gc timeout count:1394
+2019-03-06 07:54:15 cpu(2.7G) gc(0.20ms) code(0.20ms) gc timeout count:1545
+2019-03-06 07:54:16 cpu(2.7G) gc(0.20ms) code(0.30ms) gc timeout count:1220
+2019-03-06 07:54:16 cpu(2.7G) gc(0.20ms) code(0.40ms) gc timeout count:677
+2019-03-06 07:54:17 cpu(2.7G) gc(0.20ms) code(0.50ms) gc timeout count:628
+2019-03-06 07:54:17 cpu(2.7G) gc(0.20ms) code(0.60ms) gc timeout count:713
+2019-03-06 07:54:18 cpu(2.7G) gc(0.20ms) code(0.70ms) gc timeout count:656
+2019-03-06 07:54:18 cpu(2.7G) gc(0.20ms) code(0.80ms) gc timeout count:688
+2019-03-06 07:54:19 cpu(2.7G) gc(0.20ms) code(0.90ms) gc timeout count:674
+2019-03-06 07:54:20 cpu(2.7G) gc(0.30ms) code(0.10ms) gc timeout count:655
+2019-03-06 07:54:20 cpu(2.7G) gc(0.30ms) code(0.20ms) gc timeout count:731
+2019-03-06 07:54:21 cpu(2.7G) gc(0.30ms) code(0.30ms) gc timeout count:651
+2019-03-06 07:54:21 cpu(2.7G) gc(0.30ms) code(0.40ms) gc timeout count:294
+2019-03-06 07:54:22 cpu(2.7G) gc(0.30ms) code(0.50ms) gc timeout count:378
+2019-03-06 07:54:22 cpu(2.7G) gc(0.30ms) code(0.60ms) gc timeout count:269
+2019-03-06 07:54:23 cpu(2.7G) gc(0.30ms) code(0.70ms) gc timeout count:352
+2019-03-06 07:54:23 cpu(2.7G) gc(0.30ms) code(0.80ms) gc timeout count:322
+2019-03-06 07:54:24 cpu(2.7G) gc(0.30ms) code(0.90ms) gc timeout count:371
+2019-03-06 07:54:32 cpu(2.7G) gc(0.40ms) code(0.10ms) gc timeout count:14
+2019-03-06 07:54:42 cpu(2.7G) gc(0.40ms) code(0.20ms) gc timeout count:13
+2019-03-06 07:54:50 cpu(2.7G) gc(0.40ms) code(0.30ms) gc timeout count:14
+2019-03-06 07:54:52 cpu(2.7G) gc(0.40ms) code(0.40ms) gc timeout count:4
+2019-03-06 07:54:54 cpu(2.7G) gc(0.40ms) code(0.50ms) gc timeout count:5
+2019-03-06 07:54:55 cpu(2.7G) gc(0.40ms) code(0.60ms) gc timeout count:3
+2019-03-06 07:54:57 cpu(2.7G) gc(0.40ms) code(0.70ms) gc timeout count:3
+2019-03-06 07:54:58 cpu(2.7G) gc(0.40ms) code(0.80ms) gc timeout count:5
+2019-03-06 07:55:00 cpu(2.7G) gc(0.40ms) code(0.90ms) gc timeout count:4
+2019-03-06 07:55:09 cpu(2.7G) gc(0.50ms) code(0.10ms) gc timeout count:9
+2019-03-06 07:55:18 cpu(2.7G) gc(0.50ms) code(0.20ms) gc timeout count:8
+2019-03-06 07:55:27 cpu(2.7G) gc(0.50ms) code(0.30ms) gc timeout count:9
+2019-03-06 07:55:28 cpu(2.7G) gc(0.50ms) code(0.40ms) gc timeout count:4
+2019-03-06 07:55:30 cpu(2.7G) gc(0.50ms) code(0.50ms) gc timeout count:5
+2019-03-06 07:55:31 cpu(2.7G) gc(0.50ms) code(0.60ms) gc timeout count:3
+2019-03-06 07:55:33 cpu(2.7G) gc(0.50ms) code(0.70ms) gc timeout count:3
+2019-03-06 07:55:35 cpu(2.7G) gc(0.50ms) code(0.80ms) gc timeout count:5
+2019-03-06 07:55:36 cpu(2.7G) gc(0.50ms) code(0.90ms) gc timeout count:4
+2019-03-06 07:55:46 cpu(2.7G) gc(0.60ms) code(0.10ms) gc timeout count:8
+2019-03-06 07:55:55 cpu(2.7G) gc(0.60ms) code(0.20ms) gc timeout count:10
+2019-03-06 07:56:04 cpu(2.7G) gc(0.60ms) code(0.30ms) gc timeout count:9
+2019-03-06 07:56:06 cpu(2.7G) gc(0.60ms) code(0.40ms) gc timeout count:3
+2019-03-06 07:56:07 cpu(2.7G) gc(0.60ms) code(0.50ms) gc timeout count:7
+2019-03-06 07:56:09 cpu(2.7G) gc(0.60ms) code(0.60ms) gc timeout count:7
+2019-03-06 07:56:11 cpu(2.7G) gc(0.60ms) code(0.70ms) gc timeout count:7
+2019-03-06 07:56:12 cpu(2.7G) gc(0.60ms) code(0.80ms) gc timeout count:5
+2019-03-06 07:56:14 cpu(2.7G) gc(0.60ms) code(0.90ms) gc timeout count:3
+2019-03-06 07:56:23 cpu(2.7G) gc(0.70ms) code(0.10ms) gc timeout count:4
+2019-03-06 07:56:32 cpu(2.7G) gc(0.70ms) code(0.20ms) gc timeout count:6
+2019-03-06 07:56:40 cpu(2.7G) gc(0.70ms) code(0.30ms) gc timeout count:15
+2019-03-06 07:56:42 cpu(2.7G) gc(0.70ms) code(0.40ms) gc timeout count:3
+2019-03-06 07:56:43 cpu(2.7G) gc(0.70ms) code(0.50ms) gc timeout count:3
+2019-03-06 07:56:45 cpu(2.7G) gc(0.70ms) code(0.60ms) gc timeout count:4
+2019-03-06 07:56:47 cpu(2.7G) gc(0.70ms) code(0.70ms) gc timeout count:3
+2019-03-06 07:56:48 cpu(2.7G) gc(0.70ms) code(0.80ms) gc timeout count:11
+2019-03-06 07:56:50 cpu(2.7G) gc(0.70ms) code(0.90ms) gc timeout count:4
+2019-03-06 07:56:58 cpu(2.7G) gc(0.80ms) code(0.10ms) gc timeout count:23
+2019-03-06 07:57:08 cpu(2.7G) gc(0.80ms) code(0.20ms) gc timeout count:14
+2019-03-06 07:57:16 cpu(2.7G) gc(0.80ms) code(0.30ms) gc timeout count:12
+2019-03-06 07:57:17 cpu(2.7G) gc(0.80ms) code(0.40ms) gc timeout count:4
+2019-03-06 07:57:19 cpu(2.7G) gc(0.80ms) code(0.50ms) gc timeout count:4
+2019-03-06 07:57:20 cpu(2.7G) gc(0.80ms) code(0.60ms) gc timeout count:5
+2019-03-06 07:57:22 cpu(2.7G) gc(0.80ms) code(0.70ms) gc timeout count:4
+2019-03-06 07:57:24 cpu(2.7G) gc(0.80ms) code(0.80ms) gc timeout count:3
+2019-03-06 07:57:25 cpu(2.7G) gc(0.80ms) code(0.90ms) gc timeout count:4
+2019-03-06 07:57:34 cpu(2.7G) gc(0.90ms) code(0.10ms) gc timeout count:5
+2019-03-06 07:57:41 cpu(2.7G) gc(0.90ms) code(0.20ms) gc timeout count:26
+2019-03-06 07:57:51 cpu(2.7G) gc(0.90ms) code(0.30ms) gc timeout count:9
+2019-03-06 07:57:53 cpu(2.7G) gc(0.90ms) code(0.40ms) gc timeout count:10
+2019-03-06 07:57:54 cpu(2.7G) gc(0.90ms) code(0.50ms) gc timeout count:6
+2019-03-06 07:57:56 cpu(2.7G) gc(0.90ms) code(0.60ms) gc timeout count:7
+2019-03-06 07:57:57 cpu(2.7G) gc(0.90ms) code(0.70ms) gc timeout count:3
+2019-03-06 07:57:59 cpu(2.7G) gc(0.90ms) code(0.80ms) gc timeout count:4
+2019-03-06 07:58:01 cpu(2.7G) gc(0.90ms) code(0.90ms) gc timeout count:3
+
+--lua默认的分步gc效果
+2019-03-06 21:33:59 cpu(2.0G) gc(0.1000ms) timeout count:5697148
+2019-03-06 21:34:09 cpu(2.0G) gc(0.2000ms) timeout count:4940937
+2019-03-06 21:34:19 cpu(2.0G) gc(0.3000ms) timeout count:4161707
+2019-03-06 21:34:29 cpu(2.0G) gc(0.4000ms) timeout count:699347
+2019-03-06 21:34:39 cpu(2.0G) gc(0.5000ms) timeout count:57227
+2019-03-06 21:34:49 cpu(2.0G) gc(0.6000ms) timeout count:9694
+2019-03-06 21:34:59 cpu(2.0G) gc(0.7000ms) timeout count:15983
+2019-03-06 21:35:10 cpu(2.0G) gc(0.8000ms) timeout count:8988
+2019-03-06 21:35:20 cpu(2.0G) gc(0.9000ms) timeout count:684
+
+--lua默认分步gc进行了时间限制
+2019-03-06 21:47:59 cpu(2.0G) gc(0.1000ms) timeout count:256
+2019-03-06 21:48:00 cpu(2.0G) gc(0.2000ms) timeout count:161
+2019-03-06 21:48:02 cpu(2.0G) gc(0.3000ms) timeout count:60
+2019-03-06 21:48:04 cpu(2.0G) gc(0.4000ms) timeout count:8
+2019-03-06 21:48:08 cpu(2.0G) gc(0.5000ms) timeout count:4
+2019-03-06 21:48:11 cpu(2.0G) gc(0.6000ms) timeout count:13
+2019-03-06 21:48:16 cpu(2.0G) gc(0.7000ms) timeout count:2
+2019-03-06 21:48:22 cpu(2.0G) gc(0.8000ms) timeout count:0
+2019-03-06 21:48:27 cpu(2.0G) gc(0.9000ms) timeout count:1
+
+--lua设置pause=120 pmul=400，并限定时间
+2019-03-06 22:17:40 cpu(2.0G) gc(0.1000ms) timeout count:21
+2019-03-06 22:17:41 cpu(2.0G) gc(0.2000ms) timeout count:9
+2019-03-06 22:17:41 cpu(2.0G) gc(0.3000ms) timeout count:8
+2019-03-06 22:17:41 cpu(2.0G) gc(0.4000ms) timeout count:7
+2019-03-06 22:17:42 cpu(2.0G) gc(0.5000ms) timeout count:2
+2019-03-06 22:17:42 cpu(2.0G) gc(0.6000ms) timeout count:0
+2019-03-06 22:17:43 cpu(2.0G) gc(0.7000ms) timeout count:0
+2019-03-06 22:17:43 cpu(2.0G) gc(0.8000ms) timeout count:0
+2019-03-06 22:17:43 cpu(2.0G) gc(0.9000ms) timeout count:0
+
+
+2019-03-06 23:08:23 cpu(2.0G) gc(0.1000ms) timeout count:23
+2019-03-06 23:08:33 cpu(2.0G) gc(0.2000ms) timeout count:9
+2019-03-06 23:08:43 cpu(2.0G) gc(0.3000ms) timeout count:6
+2019-03-06 23:08:52 cpu(2.0G) gc(0.4000ms) timeout count:3
+2019-03-06 23:09:02 cpu(2.0G) gc(0.5000ms) timeout count:1
+2019-03-06 23:09:12 cpu(2.0G) gc(0.6000ms) timeout count:0
+2019-03-06 23:09:22 cpu(2.0G) gc(0.7000ms) timeout count:0
+2019-03-06 23:09:32 cpu(2.0G) gc(0.8000ms) timeout count:0
+2019-03-06 23:09:42 cpu(2.0G) gc(0.9000ms) timeout count:0
