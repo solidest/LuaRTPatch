@@ -5,7 +5,7 @@ function testall(gctime)
 
     set_rtgc(gctime, 1)
 
-    --dofile("rttest_lua_gc.lua")
+    dofile("rttest_lua_gc.lua")
     dofile("goto.lua")
     dofile("locals.lua")
     --dofile("main.lua")
